@@ -7,7 +7,7 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 ### ✅ What to Complete
 - [ ] Complete Any Snap Labs on [snap.berke  ](https://snap.berkeley.edu/) for this week
 - [ ] 1 Python Labs
-     ##### 📌 Lab 4 List StoryTeller Instructions: [Lab 4: StoryTeller](Unit02_Fundamentals/Lab04/Lab04_Instruction_README.md)
+     ##### 📌 Lab 4 List StoryTeller Instructions: [Lab 4: StoryTeller](Lab_04/List_README.md)
 ---
 
 ### 📂 Where to Submit
